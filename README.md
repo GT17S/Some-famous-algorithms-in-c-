@@ -8,3 +8,8 @@ It's an algorithm which does a sum recursionly on tables(where we can choose if 
 
 ## Factorial
 It's a well known algorithm in the world, which we know that it's purpose is to calculate a factorial, in this algorithme that I made, it's not iterative factorial but a recursion one.
+https://en.wikipedia.org/wiki/Factorial
+
+## Fibonnacci
+It's famous algorithm which is related to the great mathematician Fibonacci, in this algorithm we are going to calculate the fibonnacci sum of a number, and it's a recursion algorithm.
+https://en.wikipedia.org/wiki/Fibonacci_number
