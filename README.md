@@ -11,5 +11,9 @@ It's a well known algorithm in the world, which we know that it's purpose is to 
 https://en.wikipedia.org/wiki/Factorial
 
 ## Fibonnacci
-It's famous algorithm which is related to the great mathematician Fibonacci, in this algorithm we are going to calculate the fibonnacci sum of a number, and it's a recursion algorithm.
+It's a famous algorithm which is related to the great mathematician Fibonacci, in this algorithm we are going to calculate the fibonnacci sum of a number, and it's a recursion algorithm.
 https://en.wikipedia.org/wiki/Fibonacci_number
+
+## Power
+It's a famous algorithm for computer science students that is usually asked by teachers, and it's a recursion algorithm.
+https://en.wikipedia.org/wiki/Exponentiation
