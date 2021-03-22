@@ -17,3 +17,7 @@ https://en.wikipedia.org/wiki/Fibonacci_number
 ## Power
 It's a famous algorithm for computer science students that is usually asked by teachers, and it's a recursion algorithm.
 https://en.wikipedia.org/wiki/Exponentiation
+
+## Armstrong Number
+It's a famous algorithm where a number that is the sum of its own digits each raised to the power of the number of digits, in this algorithm we are working on base 10.
+https://en.wikipedia.org/wiki/Narcissistic_number
