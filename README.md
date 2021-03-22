@@ -21,3 +21,7 @@ https://en.wikipedia.org/wiki/Exponentiation
 ## Armstrong Number
 It's a famous algorithm where a number that is the sum of its own digits each raised to the power of the number of digits, in this algorithm we are working on base 10.
 https://en.wikipedia.org/wiki/Narcissistic_number
+
+## Matrix Transposal
+It's an algorithm really used and studied by computer science in thier first years in universities. 
+https://en.wikipedia.org/wiki/Transpose
