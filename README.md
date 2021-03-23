@@ -25,3 +25,9 @@ https://en.wikipedia.org/wiki/Narcissistic_number
 ## Matrix Transposal
 It's an algorithm really used and studied by computer science in thier first years in universities. 
 https://en.wikipedia.org/wiki/Transpose
+
+
+## Second Degre Solver
+It's a well known algorithm, really used and studied by pupils in the middle school and even in high school, and also studied
+by licence's degree students in comptuer science and other courses. 
+https://en.wikipedia.org/wiki/Quadratic_equation
